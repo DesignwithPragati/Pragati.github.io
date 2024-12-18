@@ -13,7 +13,7 @@ function ErrorPage() {
 		</div>
 		<div className="contant_box_404">
 		<h3 className="h2 text-center">
-		Look like you're lost
+		Look like you're llst
 		</h3>
 		<p className='text-center'>the page you are looking for not avaible!</p>
 		<NavLink to="/" className="link_404 text-center">
