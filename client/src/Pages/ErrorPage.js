@@ -15,7 +15,7 @@ function ErrorPage() {
 		<h3 className="h2 text-center">
 		Look like you're llst
 		</h3>
-		<p className='text-center'>the page you are looking for not avaible!</p>
+		<p className='text-center'>the page you are lookings for not avaible!</p>
 		<NavLink to="/" className="link_404 text-center">
         Go to Home
         </NavLink>
