@@ -136,14 +136,7 @@ function About() {
                     >
                       <strong>Sketching</strong>
                     </motion.li>
-                    <motion.li
-                    variants={fadeIn("up", 0.4, 1)}
-                    initial="hidden"
-                    whileInView={"show"}
-                    viewport={{ once: true }}
-                    >
-                      <strong>Fighting</strong>
-                    </motion.li>
+          
                   </ul>
                 </div>
               </div>
