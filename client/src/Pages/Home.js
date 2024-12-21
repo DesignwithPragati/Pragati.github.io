@@ -5,7 +5,6 @@ import {
   FaFacebook,
   FaInstagram,
   FaLinkedin,
-  FaGithub,
   FaCloudDownloadAlt,
 } from "react-icons/fa";
 import styled from "styled-components";
@@ -18,7 +17,7 @@ const Home = () => {
           <div className="slide"></div>
           <div className="profile-img">
             <div className="image">
-              <img src="/assets/profilen.jpg" alt="profile" loading="lazy" />
+              <img src="/assets/newprocopy.jpg" alt="profile" loading="lazy" />
             </div>
           </div>
           <div className="title" data-aos="fade-up">
@@ -159,7 +158,7 @@ const Wrapper = styled.section`
         top: 0;
         width: 100%;
         height: 52%;
-        background-image: url("/assets/BackgorundP1.jpg");
+        background-image: url("/assets/port-unscreen.gif");
         background-color: ${({ theme }) => theme.colors.white};
         background-repeat: no-repeat;
         background-position: 50% 0%;
