@@ -158,7 +158,7 @@ const Wrapper = styled.section`
         top: 0;
         width: 100%;
         height: 52%;
-        background-image: url("/assets/port-unscreen.gif");
+        background-image: url("/assets/b1.jpg");
         background-color: ${({ theme }) => theme.colors.white};
         background-repeat: no-repeat;
         background-position: 50% 0%;

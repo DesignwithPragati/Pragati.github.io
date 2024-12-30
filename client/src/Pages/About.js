@@ -38,7 +38,7 @@ function About() {
                   <div className="text-box">
                     <p>
                       <b>I'm </b> 
-                      Graphic Designer with expertise in Digital Marketing and a background in Fashion Design. Skilled in SEO, SEM, Social Media Optimization, Content Creation, and Graphic Design using tools like Photoshop, Canva, and CorelDraw. Experienced in collaborating with cross-functional teams and driving innovative campaigns. Seeking a challenging role to leverage my diverse skill set to contribute to a forward-thinking company.
+                      Social Media Manager and Graphic/Website Designer with expertise in Digital Marketing and a background in Fashion Design. Skilled in Ads Management, SEO, SEM, Social Media Optimization, Content Creation, and Graphic Design using tools like Photoshop, Canva,Filmora,Capcut & WordPress. Experienced in collaborating with cross-functional teams and driving innovative campaigns.I bring Fun and innovations & precision to everything I do.Lets make's Yours Brand Unforgettable!.
                     </p>
                   </div>
                 </motion.div>

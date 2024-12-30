@@ -334,7 +334,7 @@ export const Services=[
         id: 1,
 
          name: "Graphic Designer",
-         desc: "develop creative and responsive Designs",
+         desc: "Develop Creative and Responsive Designs",
     },
     {   id: 2,
         name: "Social Media Manager",
